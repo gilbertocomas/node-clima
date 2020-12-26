@@ -1,4 +1,4 @@
-## Aplicación basica del Clima por consola con NodeJS
+## Aplicación básica del Clima por consola con NodeJS
 
 Ejecutar `npm install` para descargar los modulos de node.
 
